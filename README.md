@@ -3,8 +3,6 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/nabinsharma010" target="blank"><img src="https://img.shields.io/twitter/follow/nabinsharma010?logo=twitter&style=for-the-badge" alt="nabinsharma010" /></a> </p>
-
 - 📫 Reach me **sharmanabin010@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
