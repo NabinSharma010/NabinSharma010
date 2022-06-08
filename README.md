@@ -1,5 +1,5 @@
 <h1 ">Hi 👋, I'm Nabin Sharma</h1>
-<h3>I am passionate about Deep Learning and Computer Visiona,educating myself learning </h3>
+<h3>I am passionate about Deep learning and Computer Vision. I love to tackle real world Comptuer Vision problems.   </h3>
 
 
 
