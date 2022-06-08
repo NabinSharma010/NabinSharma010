@@ -1,5 +1,5 @@
 <h1 ">Hi there 👋,</h1>
-<h3>I am Nabin Sharma currently a Master's Student in KMITL, Thailand, I am interested in Deep Learning,Computer Vision and I love to solve problems and love to develop real world computer vision systems.   </h3>
+<h4>I am Nabin Sharma currently a Master's Student in KMITL, Thailand. I am interested in Deep Learning and Computer Vision  </h4>
 
 
 
