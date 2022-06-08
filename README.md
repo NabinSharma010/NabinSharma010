@@ -13,6 +13,7 @@
 <a href="https://kaggle.com/nabinsharma10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nabinsharma10" height="30" width="40" /></a>
 <a href="https://instagram.com/nabin.sharma010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nabin.sharma010" height="30" width="40" /></a>
 </p>
+<br>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabinsharma010&show_icons=true&locale=en&layout=compact" alt="nabinsharma010" /></p>
